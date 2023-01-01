@@ -10,6 +10,8 @@ ublic class CalculadoraIdadeMedia {
       double idadeMedia = (minhaIdade + suaIdade + idadeJoao) / 3;
   
       System.out.println("A média das Idades: " + idadeMedia);
+
     }
+    
   }
   

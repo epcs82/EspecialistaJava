@@ -9,6 +9,6 @@ public class AulaVariaveis {
 
     int totalIdades = minhaIdade + suaIdade;
 
-    System.out.println("A soma das Idades:" + totalIdades);
+    System.out.println("A soma das Idades: " + totalIdades);
   }
 }
