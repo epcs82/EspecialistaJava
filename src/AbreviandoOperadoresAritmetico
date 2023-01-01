@@ -7,7 +7,20 @@ public class AbreviandoOperadoresAritmetico {
     //quantidadeProdutos =  quantidadeProdutos + 3
 
     //codigo abreviado
+    //Adição
     quantidadeProdutos += 3;
+
+    //Subtração
+    quantidadeProdutos -= 3;
+
+    //Multiplicação
+    quantidadeProdutos *= 3;
+
+    //Divisão
+    quantidadeProdutos /= 2;
+
+    //Módulo
+    quantidadeProdutos %= 4;
 
     System.out.println(quantidadeProdutos);
   }
