@@ -9,19 +9,22 @@ public class OperadoresAritmeticos {
 
     //Adição
     int totalIdades = minhaIdade + suaIdade + 100;
-    System.out.println("A soma das Idades:" + totalIdades);
+    System.out.println("A soma das Idades: " + totalIdades);
 
     //Subtração
     int diferencaIdades = minhaIdade - suaIdade;
-    System.println("Diferença das idades:" + diferencaIdades);
+    System.println("Diferença das idades: " + diferencaIdades);
 
     //Multiplicação
     int dobroDaIdade = 2 * suaIdade;
-    System.println("Sobro da sua idade:" + dobroDaIdade);
+    System.println("Sobro da sua idade: " + dobroDaIdade);
 
     //Divisão
-    //Multiplicação
     int metadeDaIdade = suaIdade / 2;
-    System.println("Sobro da sua idade:" / metadeDaIdade);
+    System.println("Sobro da sua idade: " / metadeDaIdade);
+
+    //Modulo
+    int restoDivisao = 7 % 2;
+    System.println("Resto da divisão (módulo): " + restoDivisao);
   }
 }
