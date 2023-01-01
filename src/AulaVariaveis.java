@@ -1,5 +1,3 @@
-package aulavariaveis;
-
 public class AulaVariaveis {
 
   public static void main(String[] args) {
