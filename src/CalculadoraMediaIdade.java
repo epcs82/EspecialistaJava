@@ -7,7 +7,7 @@ ublic class CalculadoraIdadeMedia {
       int suaIdade = 25;
       int idadeJoao = 50;
 
-      int idadeMedia = minhaIdade + suaIdade + idadeJoao / 3;
+      int idadeMedia = (minhaIdade + suaIdade + idadeJoao) / 3;
   
       System.out.println("A média das Idades: " + idadeMedia);
     }
