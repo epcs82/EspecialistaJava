@@ -8,6 +8,10 @@ public class OperadorIncremento {
 
     totalDownloads++;
 
+    //int novoTotalDownloads = totalDownloads++;
+    int novoTotalDownloads = ++totalDownloads;
+
     System.out.println("Total de downloads: " + totalDownloads);
+    System.out.println("Novo Total de downloads: " + novoTotalDownloads);
   }
 }
