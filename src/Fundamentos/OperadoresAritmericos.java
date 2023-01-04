@@ -2,6 +2,7 @@ public class OperadoresAritmeticos {
 
   public static void main(String[] args) {
     //LouwerCameCase aplicado no exemplo abaixo
+
     int minhaIdade = 40;
     int suaIdade = 25;
 

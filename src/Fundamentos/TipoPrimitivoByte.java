@@ -5,7 +5,7 @@ public class Byte {
     //byte idade = 128; //não compila
 
     short quantidadeEstoque = 32767; //valor maximo para variavel tipo short
-    //short quantidadeEstoque = 32787; //não compila
+    //short quantidadeEstoque = 32787; //não compila EJ
 
   }
 }

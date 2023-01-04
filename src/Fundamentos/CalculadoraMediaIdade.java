@@ -6,7 +6,6 @@ public class CalculadoraIdadeMedia {
     int idadeJoao = 50;
 
     double idadeMedia = (minhaIdade + suaIdade + idadeJoao) / 3;
-
     System.out.println("A média das Idades: " + idadeMedia);
   }
 }

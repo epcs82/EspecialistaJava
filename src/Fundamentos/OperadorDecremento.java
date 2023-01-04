@@ -4,7 +4,7 @@ public class OperadorDecremento {
     int limiteTentativasLogin = 10;
 
     //limiteTentativasLogin--;
-    //int novoLimiteTentativasLogin = limiteTentativasLogin--; //metodo pós fixada
+    //int novoLimiteTentativasLogin = limiteTentativasLogin--;//metodo pós fixada
     int novoLimiteTentativasLogin = --limiteTentativasLogin; //metodo pré fixada
 
     System.out.println(

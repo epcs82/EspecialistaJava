@@ -3,7 +3,7 @@ public class ConversaoLongParaInt {
   public static void main(String[] args) {
     long x = 10;
 
-    //int y = x; //não compila
+    //int y = x;//não compila
 
     int y = (int) x;
 

@@ -1,7 +1,7 @@
 public class AulaVariaveis {
 
   public static void main(String[] args) {
-    //LouwerCameCase
+    //LouwerCameCase Especialista Java
     int minhaIdade = 40;
     int suaIdade = 25;
 

@@ -1,7 +1,7 @@
 public class OperadorIncremento {
 
   public static void main(String[] args) {
-    int totalDownloads = 10;
+    int totalDownloads = 10; //EJ
 
     //totalDownloads  =  totalDownloads + 1;
     //totalDownloads += 1;
