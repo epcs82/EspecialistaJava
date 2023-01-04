@@ -10,6 +10,7 @@ public class DoubleParaFloat {
 
     float taxa1 = 934.5f;
     double taxa2 = taxa1;
+    double taxa2 = (double) taxa1; //instrução de casting é opicional, no caso aqui é uma conversão implicita !
 
     System.out.println(taxa1);
     System.out.println(taxa2);
