@@ -1,4 +1,4 @@
-public class ConversaoIntParaLong {
+public class IntParaLong {
 
     public static main(String[] args) {
 
